@@ -1,1 +1,0 @@
-# skamor.github.io
