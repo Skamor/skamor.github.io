@@ -2,11 +2,14 @@
     color: blue
 }
 .contenant{
-    padding:100px;
+    padding:50px;
     border-color: brown;
     background-color: burlywood;
     border-style: double;
     display: flex;
     flex-direction: row;
-
+    width: 200px;
+}
+.cool{
+    padding:10px;
 }
