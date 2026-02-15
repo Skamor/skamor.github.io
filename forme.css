@@ -7,5 +7,6 @@
     background-color: burlywood;
     border-style: double;
     display: flex;
+    flex-direction: row;
 
 }
