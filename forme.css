@@ -2,9 +2,10 @@
     color: blue
 }
 .contenant{
-    padding:1000px;
+    padding:100px;
     border-color: brown;
     background-color: burlywood;
     border-style: double;
+    display: flex;
 
 }
