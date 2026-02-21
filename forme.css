@@ -13,3 +13,10 @@
 .cool{
     padding:10px;
 }
+
+.haut{
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+    top: 0;
+}
