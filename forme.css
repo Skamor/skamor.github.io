@@ -19,4 +19,5 @@
     flex-direction: row;
     position: absolute;
     top: 0;
+    background-color: darkgreen;
 }
