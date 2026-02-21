@@ -29,3 +29,14 @@
     height: 90%;
     background-color: cadetblue;
 }
+
+.droite{
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    width: 80%;
+    height: 90%;
+    background-color: cadetblue;
+}
