@@ -1,17 +1,11 @@
-.texte {
-    color: blue
+.page{
+    display: flex;
+    flex-direction: column;
 }
-.contenant{
-    padding:50px;
-    border-color: brown;
-    background-color: burlywood;
-    border-style: double;
+
+.contenu{
     display: flex;
     flex-direction: row;
-    width: 500px;
-}
-.cool{
-    padding:10px;
 }
 
 .haut{
