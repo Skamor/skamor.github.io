@@ -33,7 +33,7 @@
 .titre-boutton-pages{
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: larger;
-    color:rgb(66, 66, 66);
+    color:black;
     position: relative;
     left: 10%;
     width: 80%;
@@ -46,6 +46,8 @@
     position: relative;
     left: 10%;
     width: 80%;
+    border-style: ridge;
+    border-color: burlywood;
 }
 
 .droite{
