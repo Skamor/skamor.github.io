@@ -27,12 +27,14 @@
     left: 0;
     width: 20%;
     height: 88%;
-    background-color: rgb(243, 91, 86);
+    background-color: rgb(171, 42, 23);
 }
 
 .boutton-pages{
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color:rgb(66, 66, 66);
+    padding-left: 5px;
+    font-size: medium;
 }
 
 .droite{
