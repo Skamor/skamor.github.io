@@ -48,6 +48,7 @@
     width: 80%;
     border-style: ridge;
     border-color: burlywood;
+    padding: 4px;
 }
 
 .droite{
@@ -59,6 +60,7 @@
     width: 80%;
     height: 88%;
     background-color: rgb(199, 238, 240);
+    z-index: -1;
 }
 
 .accent{
