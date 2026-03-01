@@ -61,6 +61,7 @@
     height: 88%;
     background-color: rgb(199, 238, 240);
     z-index: -1;
+    overflow-y: auto;
 }
 
 .accent{
