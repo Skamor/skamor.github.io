@@ -85,6 +85,11 @@
 }
 
 .propos{
+    
+    font-size: larger;
+    border-style: outset;
+}
+.contenant-propos{
     position: relative;
     left: 60%;
     top: 30%;
