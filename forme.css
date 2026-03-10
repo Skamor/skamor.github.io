@@ -92,6 +92,7 @@
     border-color: tan;
     width: 100px;
     display: inline-block;
+    text-decoration: none;
 }
 .contenant-propos{
     position: relative;
