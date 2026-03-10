@@ -88,6 +88,10 @@
     
     font-size: larger;
     border-style: outset;
+    padding: 7px;
+    border-color: tan;
+    width: 100px;
+    display: inline-block;
 }
 .contenant-propos{
     position: relative;
