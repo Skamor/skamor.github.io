@@ -108,3 +108,24 @@
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     text-align: center;
 }
+
+.photoCarcassonne{
+    width: 30%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.photoCatan{
+    width: 30%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.photoRoot{
+    width: 30%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
