@@ -84,6 +84,14 @@
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
+.paragraphe-grand{
+    position: relative;
+    left: 20%;
+    width: 60%;
+    font-size: larger;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
 .propos{
     
     font-size: larger;
